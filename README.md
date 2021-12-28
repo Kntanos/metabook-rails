@@ -11,12 +11,7 @@ Things you may want to cover:
 * System dependencies
 
   Rails >= 6.1.4
-* Configuration
 
-  **Please run this command from the project directory**
-  ```
-   cp pre-push .git/hooks/
-  ```
 * Database creation
 
   ![Screenshot](db.jpg)
